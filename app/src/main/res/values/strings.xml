@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Doctorapp</string>
+    <string-array name="country_arrays">
+        <item>+91</item>
+        <item>+0</item>
+        <item>+21</item>
+        <item>+25</item>
+        <item>+18</item>
+        <item>+81</item>
+        <item>+22</item>
+        <item>+61</item>
+    </string-array>
+    <string-array name="speciality">
+        <item>SELECT SPECIALITY</item>
+        <item>Women's Issue</item>
+        <item>General Medicines</item>
+        <item>Sexology</item>
+        <item>Strees and Mental Health</item>
+        <item>Skin Prblems</item>
+        <item>Hair Problems</item>
+        <item>Pregnancy issues</item>
+        <item>Concieving issues</item>
+        <item>Weight Problem</item>
+        <item>Neurology</item>
+        <item>Cancer Advice</item>
+    </string-array>
+    <string name="title_activity_home">Consult A Doctor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

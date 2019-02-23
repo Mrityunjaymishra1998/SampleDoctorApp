@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/freecash"
+            android:icon="@drawable/cash"
+            android:title="Free Cash" />
+        <item
+            android:id="@+id/Referandearn"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Refer Earn" />
+        <item
+            android:id="@+id/changelanguage"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Change Language" />
+        <item
+            android:id="@+id/medicalrecords"
+            android:icon="@drawable/medicalreport"
+            android:title="My Medical Records" />
+        <item
+            android:id="@+id/ordermedicines"
+            android:icon="@drawable/order"
+            android:title="Order Medicines" />
+        <item
+            android:id="@+id/booklabtest"
+            android:icon="@drawable/labtest"
+            android:title="Book Lab Tests" />
+        <item
+            android:id="@+id/ChatSupport"
+            android:icon="@drawable/chat"
+            android:title="Chat Support" />
+        <item
+            android:id="@+id/whatwetreat"
+            android:icon="@drawable/what"
+            android:title="What We Treat" />
+        <item
+            android:id="@+id/FAQs"
+            android:icon="@drawable/faq"
+            android:title="FAQs" />
+        <item
+            android:id="@+id/RateApp"
+            android:icon="@drawable/ic_menu_send"
+            android:title="RateApp" />
+        <item
+            android:id="@+id/Contact"
+            android:icon="@drawable/contact"
+            android:title="ContactUs" />
+        <item
+            android:id="@+id/Update"
+            android:icon="@drawable/update"
+            android:title="Update" />
+
+    </group>
+
+
+
+</menu>
